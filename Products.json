@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"1.jpg"
+    },
+    {
+        "id":2,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"2.jpg"
+    },
+    {
+        "id":3,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"3.jpg"
+    },
+    {
+        "id":4,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"4.jpg"
+    },
+    {
+        "id":5,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"5.jpg"
+    },
+    {
+        "id":6,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"6.jpg"
+    },
+    {
+        "id":7,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"7.jpg"
+    },
+    {
+        "id":8,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"8.jpg"
+    },
+    {
+        "id":9,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"9.jpg"
+    },
+    {
+        "id":10,
+        "name":"L001 LOUNGE CHAIR",
+        "price":200,
+        "image":"10.jpg"
+    }
+]
